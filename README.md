@@ -8,7 +8,15 @@ dependencies.
 
 Example:
 
+
+# How to use it
+
+1 - Put all admin-techs in the same folder. If the admin-techs are uncompress will be faster. 
+2 - Use the script and drop the path where all the admin-techs are located
+
 ```
+python3.13 ~/Downloads/sdwan_overlay_details_report_tool-v1.0.2.py  ~/Downloads/folde-with-admin-techs/
+
 === Table 1 – Device Overview ===
 +-----------+-------------+--------------+-------------+-------------+-----------+
 | System-IP | Personality | Device Model | SP-Org-Name | Org-Name    | Version   |
